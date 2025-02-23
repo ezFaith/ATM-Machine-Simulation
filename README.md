@@ -19,7 +19,7 @@ This is a Python-based **ATM Machine Simulation** that replicates essential bank
 ## 📜 How to Run the Project
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/YOUR_USERNAME/ATM-Machine-Simulation.git
+ git clone https://github.com/ezFaith/ATM-Machine-Simulation.git
  cd ATM-Machine-Simulation
 ```
 
